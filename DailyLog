@@ -307,7 +307,10 @@ template 개같네
 usart 코드 동작 확인
 현재 사용하는 이벤트 리스트를 설정하는 activedEventArrList 설정 오류 확인
 ArrayList 초기값을 넣으면서 생성하는 생성자 추가
+usartLoggerSWC 오류 수정 및 테스트
 
+액션 이름이나 컴포넌트 이름의 크기를 저장해야 전부 출력가능함 sizeof는 string의 length를 대체할 수 없음
+usart 입력기능 구현해서 디버깅 할지 입력받게 하면 
 
 
 
